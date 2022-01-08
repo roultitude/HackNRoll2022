@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: db03d21f91849ec4d914e14051aa7d0b, type: 3}
+  m_Name: JosephWongn
+  m_EditorClassIdentifier: 
+  customerName: JosephWong
+  orderText: 1 pandan leaf thanks (with plate thank u)!
+  moneyReward: 120
+  order:
+  - {fileID: 11400000, guid: e31c71f05a79df7439f152f3e0f70f86, type: 2}
